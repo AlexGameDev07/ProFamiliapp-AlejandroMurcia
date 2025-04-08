@@ -27,7 +27,7 @@ Una API RESTful desarrollada para el Hospital **Pro-Familia**, diseñada para fa
 
 ```
 🧑 Pacientes
-```
+```json
 {
   "nombre": "Ana Martínez",
   "edad": 28,
@@ -38,7 +38,7 @@ Una API RESTful desarrollada para el Hospital **Pro-Familia**, diseñada para fa
 }
 ```
 📆 Citas
-```
+```json
 {
   "fecha": "2025-04-08",
   "hora": "10:30",
